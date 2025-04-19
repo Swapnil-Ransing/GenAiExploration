@@ -1,0 +1,7 @@
+langchain
+ipykernel
+python-dotenv
+langchain_community
+pypdf
+langchain-text-splitters
+langchain-google-genai==2.1.3

@@ -1,0 +1,4 @@
+cd C:\Swapnil\GenerativeAI\Practice_1
+code . -- Opens VS code in the above directory
+use vs code command pallete to install python environment in local folder
+To select and activate installed local environment Python: Select Interpreter command from the Command Palette
