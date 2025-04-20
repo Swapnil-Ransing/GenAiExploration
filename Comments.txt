@@ -2,3 +2,8 @@ cd C:\Swapnil\GenerativeAI\Practice_1
 code . -- Opens VS code in the above directory
 use vs code command pallete to install python environment in local folder
 To select and activate installed local environment Python: Select Interpreter command from the Command Palette
+
+
+
+ollama run llama3.2  --> download and runs llama3.2 model
+ollama pull all-minilm  -->> ollma model for embedding
